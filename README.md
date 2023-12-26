@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hassan Qureshi</h1>
-<h3 align="center">A passionate Student Currently pursuing a Bachelor's in Data Science.</h3>
+<h1 align="left">Hi 👋,Wellcome</h1>
+<img align="center" width="1000"    src="https://github.com/m-hassanqureshi/m-hassanqureshi/blob/main/HASSAN-QURESHI-GITHUB-BANNER.PNG">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hassanqureshi&label=Profile%20views&color=0e75b6&style=flat" alt="m-hassanqureshi" /> </p>
 
