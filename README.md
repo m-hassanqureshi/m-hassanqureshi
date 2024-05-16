@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Python Programming Beginner Project](https://github.com/m-hassanqureshi/python-beginner-level-projects)
 
-- 🌱 I’m currently learning **Python Programming ,HTML ,CSS .**
+- 🌱 I’m currently learning **Python Programming  .**
 
 - 👯 I’m looking to collaborate on [Python Programming Beginner Project](https://github.com/m-hassanqureshi/python-beginner-level-projects)
 
