@@ -8,17 +8,17 @@
   align="right" height="250" src="[https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
   
 
-- 🔭 I’m currently working on [Python Programming Beginner Project](https://github.com/m-hassanqureshi/python-beginner-level-projects)
+- 🔭 I’m currently working on [BANK MANAGEMENT SYSTEM PROJECT](https://github.com/m-hassanqureshi/banking-management-system)
 
 - 🌱 I’m currently learning **Python Programming  .**
 
-- 👯 I’m looking to collaborate on [Python Programming Beginner Project](https://github.com/m-hassanqureshi/python-beginner-level-projects)
+- 👯 I’m looking to collaborate on [BANK MANAGEMENT SYSTEM PROJECT](https://github.com/m-hassanqureshi/banking-management-system)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/hassanqureshi/home](https://sites.google.com/view/hassanqureshi/home)
+- 👨‍💻 All of my projects are available at [MY Github ](https://github.com/m-hassanqureshi))
 
-- 📝 I regularly write articles on [https://medium.com/@hassan-qureshi](https://medium.com/@hassan-qureshi)
+- 📝 I ocassionally write articles on [https://medium.com/@hassan-qureshi](https://medium.com/@hassan-qureshi)
 
-- 💬 Ask me about **Python Programming ,HTML ,CSS**
+- 💬 Ask me about **Python Programming ,Data Science , and Artificial Intelligence.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
