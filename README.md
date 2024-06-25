@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [BANK MANAGEMENT SYSTEM](https://github.com/m-hassanqureshi/banking-management-system)
 
-- 🌱 I’m currently learning **Django Framework.**
+- 🌱 I’m currently learning **Data Analysis.**
 
 - 👯 I’m looking to collaborate on [BANK MANAGEMENT SYSTEM](https://github.com/m-hassanqureshi/banking-management-system)
 
