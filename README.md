@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Python , C++ , Pandas ,SQL**
 
-- 📫 How to reach me **mhassanqureshi.92@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com//m_hassanqureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/m_hassanqureshi" height="30" width="40" /></a>
