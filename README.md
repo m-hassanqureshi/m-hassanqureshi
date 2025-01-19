@@ -2,7 +2,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=m-hassanqureshi&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🔭 I’m currently working on BANK MANAGEMENT SYSTEM<br><br>🌱 I’m currently learning Data Structures and Algorithms<br><br>👯 I’m looking to collaborate on BANK MANAGEMENT SYSTEM<br><br>💬 Ask me about Python , C++ , Pandas ,SQL
+🔭 I’m currently working on  [Web Developement Course](https://github.com/m-hassanqureshi/Web_Dev_Course)<br><br>🌱 I’m currently learning DSA and Full Stack <br><br>👯 I’m looking to collaborate on [Python Projects](https://github.com/m-hassanqureshi/python-beginner-level-projects) <br><br>💬 Ask me about Python , C++ , Pandas ,SQL
 
 
 ## 🌐 Socials:
